@@ -13,7 +13,6 @@
 ![0013](https://user-images.githubusercontent.com/36234545/73748889-62a0ce80-476b-11ea-83ef-3736b5d71cc2.jpg)
 ![0014](https://user-images.githubusercontent.com/36234545/73748890-62a0ce80-476b-11ea-9f96-9aac78038669.jpg)
 ![0015](https://user-images.githubusercontent.com/36234545/73748891-62a0ce80-476b-11ea-96cf-14212aae523c.jpg)
-![0016](https://user-images.githubusercontent.com/36234545/73748894-63396500-476b-11ea-8de3-fd999fb46c6e.jpg)
 
 # References
 
