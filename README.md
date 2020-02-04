@@ -1,5 +1,3 @@
-# Playing-Snake-with-Reinforcement-Learning
-
 ![0001](https://user-images.githubusercontent.com/36234545/73748896-63d1fb80-476b-11ea-933c-b87c108fdf82.jpg)
 ![0002](https://user-images.githubusercontent.com/36234545/73748899-63d1fb80-476b-11ea-8d1e-5505abb18c73.jpg)
 ![0003](https://user-images.githubusercontent.com/36234545/73748901-646a9200-476b-11ea-8629-12c4a05e0305.jpg)
